@@ -2,6 +2,13 @@
 
 ## For those who want to connect by L2TP/IPsec (nativey supported by macOS, iOS, Android, Windows):
 
+[Windows 10](#win)
+[macOS](#mac)
+[Android](#android)
+[iOS](#ios)
+[Others](#others)
+
+<a name="win"/ >
 ### Windows 10
 1. Click on the Start Menu and open Settings by typing "Settings".
 2. Click on Network & Internet.
@@ -19,6 +26,7 @@
 14. Click Save.
 15. Click Connect.
 
+<a name="mac"/ >
 ### macOS
 1. Open System Preferences and go to the Network section.
 2. Click the `+` button in the lower-left corner of the window.
@@ -38,6 +46,7 @@
 16. Click OK to close the Advanced settings, and then click Apply to save the VPN connection information.
 17. To connect to this VPN use the VPN icon in the menu bar or open Network in System Preferences, click on the Streisand entry in the list of connections. There's a Connect button there.
 
+<a name="android"/ >
 ### Android
 1. Launch the Settings application.
 2. Tap More... in the Wireless & Networks section.
@@ -54,6 +63,7 @@
 13. Check the Save account information checkbox.
 14. Tap Connect.
 
+<a name="ios"/ >
 ### iOS
 1. Go to Settings -> General -> VPN.
 2. Tap Add VPN Configuration....
@@ -68,6 +78,7 @@
 11. To activate the VPN, go to Settings -> General -> VPN.
 12. Slide the VPN switch on.
 
+<a name="others"/ >
 ### For all other operating systems and any other type of connection services like OpenVPN, OpenSSH, Shadowsocks, Tor, OpenConnect, etc.
 Install the required softwares and use these credentials to connect to VPN:
 > Name of the VPN: `saitarunreddy` (or any other name you want the VPN to be stored as) <br />
