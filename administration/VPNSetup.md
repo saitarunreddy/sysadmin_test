@@ -2,11 +2,11 @@
 
 ## For those who want to connect by L2TP/IPsec (nativey supported by macOS, iOS, Android, Windows):
 
-[Windows 10](#win)
-[macOS](#mac)
-[Android](#android)
-[iOS](#ios)
-[Others](#others)
+[Windows 10](#win) <br />
+[macOS](#mac) <br />
+[Android](#android) <br />
+[iOS](#ios) <br />
+[Others](#others) <br />
 
 <a name="win"/ >
 ### Windows 10
