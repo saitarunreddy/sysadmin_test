@@ -74,6 +74,6 @@ Install the required softwares and use these credentials to connect to VPN:
 > Server Address*: `13.127.154.13`
 > Pre‐shared key or PSK: `reciprocalitys‐basenjis‐Robson`
 > CHAP authentication username: `streisand`
-> CHAP authentication password: `Sasquatchs‐corbiestep`
+> CHAP authentication password: `Sasquatchs‐corbiestep`  
 
 *The server's IP address can change, please confirm the server's IP address with the me before connecting.
