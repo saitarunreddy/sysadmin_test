@@ -70,7 +70,7 @@
 
 ### For all other operating systems and any other type of connection services like OpenVPN, OpenSSH, Shadowsocks, Tor, OpenConnect, etc.
 Install the required softwares and use these credentials to connect to VPN:
-> Name of the VPN: `saitarunreddy` (or any other name you want the VPN to be stored as)
+> Name of the VPN: `saitarunreddy` (or any other name you want the VPN to be stored as) <br />
 > Server Address*: `13.127.154.13` <br />
 > Pre‐shared key or PSK: `reciprocalitys‐basenjis‐Robson` <br />
 > CHAP authentication username: `streisand` <br />
