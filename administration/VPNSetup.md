@@ -69,11 +69,11 @@
 12. Slide the VPN switch on.
 
 ### For all other operating systems and any other type of connection services like OpenVPN, OpenSSH, Shadowsocks, Tor, OpenConnect, etc.
-Install the required softwares and use these credentials to connect to VPN
-Name of the VPN: `saitarunreddy` (or any other name you want the VPN to be stored as)
-Server Address*: `13.127.154.13`
-Pre‐shared key or PSK: `reciprocalitys‐basenjis‐Robson`
-CHAP authentication username: `streisand`
-CHAP authentication password: `Sasquatchs‐corbiestep`
+Install the required softwares and use these credentials to connect to VPN:
+> Name of the VPN: `saitarunreddy` (or any other name you want the VPN to be stored as)
+> Server Address*: `13.127.154.13`
+> Pre‐shared key or PSK: `reciprocalitys‐basenjis‐Robson`
+> CHAP authentication username: `streisand`
+> CHAP authentication password: `Sasquatchs‐corbiestep`
 
 *The server's IP address can change, please confirm the server's IP address with the me before connecting.
