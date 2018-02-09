@@ -18,4 +18,4 @@ Solution to part 2:
 
 
 ## Question 2
-I have used Amazon AWS free tier service to host the VPN service
+I have used Amazon AWS free tier service to host the VPN service. I have followed the steps given on https://github.com/StreisandEffect/streisand to setup the VPN. I had no other troubles while following the steps for installation.
