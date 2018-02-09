@@ -2,12 +2,6 @@
 
 ## For those who want to connect by L2TP/IPsec (nativey supported by macOS, iOS, Android, Windows):
 
-[Windows 10](#win) <br />
-[macOS](#mac) <br />
-[Android](#android) <br />
-[iOS](#ios) <br />
-[Others](#others) <br />
-
 ### Windows 10
 1. Click on the Start Menu and open Settings by typing "Settings".
 2. Click on Network & Internet.
