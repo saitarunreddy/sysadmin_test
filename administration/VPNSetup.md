@@ -15,7 +15,7 @@
 4. Click on Add a VPN connection.
 5. Select Windows (built­in) for the VPN provider field.
 6. Enter `saitarunreddy` in the Connection name field (or any other name you want the VPN to be stored as).
-7. Enter `13.127.154.13` in the Server name or address field.*
+7. Enter `13.126.113.201` in the Server name or address field.*
 8. Select `L2TP/IPsec` with pre­shared key for the VPN type field.
 9. Enter `reciprocalitys‐basenjis‐Robson` for the Pre­shared key.
 10. Select User name and password for the Type of sign­in info field.
@@ -32,7 +32,7 @@
 4. Select `L2TP over IPSec` from the VPN Type drop-down menu.
 5. Enter `saitarunreddy` for the Service Name (or any other name you want the VPN to be stored as).
 6. Click Create.
-7. Enter `13.127.154.13` for the Server Address.*
+7. Enter `13.126.113.201` for the Server Address.*
 8. Enter `streisand` for the Account Name.
 9. Click the Authentication Settings button.
 10. In the User Authentication section, select the Password radio button and enter `Sasquatchs‐corbiestep` as its value.
@@ -51,7 +51,7 @@
 4. Tap the `+` icon in the top-right of the screen.
 5. Enter `saitarunreddy` in the Name field (or any other name you want the VPN to be stored as).
 6. Select `L2TP/IPSec PSK` in the Type drop-down menu.
-7. Enter `13.127.154.13` in the Server address field.*
+7. Enter `13.126.113.201` in the Server address field.*
 8. Enter `reciprocalitys‐basenjis‐Robson` in the IPSec pre­shared key field.
 9. Tap Save.
 10. Tap the saitarunreddy connection.
@@ -66,7 +66,7 @@
 3. Tap Type.
 4. Select `L2TP` and go back.
 5. Tap Description and enter `saitarunreddy` (or any other name you want the VPN to be stored as).
-6. Tap Server and enter `13.127.154.13` .*
+6. Tap Server and enter `13.126.113.201` .*
 7. Tap Account and enter `streisand` .
 8. Tap Password and enter `Sasquatchs‐corbiestep` .
 9. Tap Secret and enter `reciprocalitys‐basenjis‐Robson` .
@@ -78,7 +78,7 @@
 For all other operating systems and any other type of connection services like OpenVPN, OpenSSH, Shadowsocks, Tor, OpenConnect, etc.
 Install the required softwares and use these credentials to connect to VPN:
 > Name of the VPN: `saitarunreddy` (or any other name you want the VPN to be stored as) <br />
-> Server Address*: `13.127.154.13` <br />
+> Server Address*: `13.126.113.201` <br />
 > Pre‐shared key or PSK: `reciprocalitys‐basenjis‐Robson` <br />
 > CHAP authentication username: `streisand` <br />
 > CHAP authentication password: `Sasquatchs‐corbiestep` <br />
